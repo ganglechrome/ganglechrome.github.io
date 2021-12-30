@@ -1,0 +1,27 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+		a.wsp38b2d1f2{ color:#A01FCB; text-decoration: underline} 
+		a.wsp38b2d1f2:visited{ color:#800080; text-decoration: underline} 
+		a.wsp38b2d1f2:active{ color:#8018CB; text-decoration: underline} 
+		a.wsp38b2d1f2:hover{ color:#E3B4F3; text-decoration: underline} 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#html_94f4ad3 { vertical-align: bottom; position:relative; display: inline-block; width:100%; background-color:#E5E5E5;  }
+.textstyle2 { text-align:left; }
+#text_2823f0b8 { position:absolute; left:0%; top:30%; width:100%; height:300px; background-color:rgba(128, 128, 255, 0);  }
+.textstyle3 { font-size:40pt; font-family:'Times New Roman', Times, serif; color:#FFFFFF; font-weight:bold;  }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.textstyle5 { font-size:16pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+.textstyle6 { font-size:16pt; font-family:'Times New Roman', Times, serif; color:#FFFFFF; font-weight:bold;  }
+#img_3564bc16 { position:absolute; left:5%; top:6%; width:10%; background:none;  }
+#button_ea1896a { border-radius: 9px; position:absolute; left:50%; top:5%; width:95px; height:31px; background:none;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle7 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+#button_2b37d698 { border-radius: 9px; position:absolute; left:20%; top:5%; width:95px; height:31px; background:none;  }
+#button_32754fc4 { border-radius: 9px; position:absolute; left:30%; top:5%; width:95px; height:31px; background:none;  }
+#button_431c43a0 { border-radius: 9px; position:absolute; left:60%; top:5%; width:95px; height:31px; background:none;  }
+#button_5fcdca19 { border-radius: 9px; position:absolute; left:40%; top:5%; width:95px; height:31px; background:none;  }
+#button_524340ed { border-radius: 9px; position:absolute; left:70%; top:5%; width:95px; height:31px; background:none;  }

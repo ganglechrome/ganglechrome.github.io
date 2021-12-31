@@ -184,11 +184,14 @@ body { background-color:#000000; padding:0;  margin: 0; }
 #container_5318f513 { vertical-align: top; position:relative; display: inline-block; width:29%; min-height:150px; background-color:#FFFFFF;  }
 #container_5318f513_padding { margin: 10px; display: block;  }
 #placeh_4aba8bf3 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:50px; background-color:#000000; border: 40px solid #000000;  }
-#container_77b764d8 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
-#container_77b764d8_padding { margin: 10px; display: block;  }
-#audio_64b656e5 { vertical-align: bottom; position:relative; display: inline-block; width:220px; height:32px; background:none;  }
-#text_7e5cdcd { position:absolute; left:5%; top:7%; width:292px; height:22px; background:none;  }
+#container_62709428 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:50px; background:none;  }
+#container_62709428_padding { margin: 10px; display: block;  }
+#container_4f34cc6e { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:50px; background:none;  }
+#container_4f34cc6e_padding { margin: 10px; display: block;  }
 .textstyle10 { font-size:12pt; font-family:Tahoma, Geneva, sans-serif; color:#FFFFFF;  }
+#container_2bc926a0 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:50px; background:none;  }
+#container_2bc926a0_padding { margin: 10px; display: block;  }
+#audio_7fa5239b { vertical-align: bottom; position:relative; display: inline-block; width:220px; height:32px; background:none;  }
 #placeh_7107b4be { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:50px; background-color:#000000; border: 40px solid #000000;  }
 .textstyle11 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
 @media only screen and (max-width: 750px)
@@ -252,4 +255,6 @@ body { background-color:#000000; padding:0;  margin: 0; }
 		#container_23c309f5 { width:100%;  }
 		#container_4710ac38 { width:100%;  }
 		#container_650abe15 { width:100%;  }
+		#container_4f34cc6e { width:100%;  }
+		#container_2bc926a0 { width:100%;  }
 }

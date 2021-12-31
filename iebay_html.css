@@ -37,26 +37,25 @@ a:hover { color:#B2B3B4; }
 			#menu_6ea2fd9d .normalEntry { display: none; } 
 		}
 body { background-color:#000000; padding:0;  margin: 0; }
-.textstyle1 { text-align:left; }
-#img_66ca5416 { position:absolute; left:5%; top:2%; width:5%; background:none;  }
-.textstyle2 { text-align:center; }
+.textstyle1 { text-align:center; }
 #menu_441deae9 { vertical-align: bottom; position:relative; display: inline-block; width:48%; height:40px; text-align:left; background-color:#FF0000; background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 0, 0, 0));  }
 .menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
 .style1 { position:absolute; width:37px; height:40px; left:10px;  }
 .style2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:33px;  }
-.textstyle3 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.textstyle2 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
 .style3 { position:absolute; width:52px; height:40px; left:10px;  }
 .style4 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:18px;  }
-.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000;  white-space: nowrap; }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000;  white-space: nowrap; }
 .style5 { position:absolute; width:84px; height:40px; left:62px;  }
-.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap; }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  white-space: nowrap; }
 .style6 { position:absolute; width:153px; height:40px; left:146px;  }
 .style7 { position:absolute; width:84px; height:40px; left:299px;  }
 .style8 { position:absolute; width:84px; height:40px; left:383px;  }
 .style9 { position:absolute; width:132px; height:40px; left:467px;  }
 .style10 { position:absolute; width:52px; height:40px; left:599px;  }
-.textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
-#html_3ff37bcc { vertical-align: bottom; position:relative; display: inline-block; width:100%; background-color:#E5E5E5;  }
+.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+#html_3ff37bcc { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; background-color:rgba(0, 0, 0, 0); border: 3px solid #000000;  }
+.textstyle6 { text-align:left; }
 #container_3ac7248a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:30px; background:none;  }
 #container_3ac7248a_padding { margin: 10px; display: block;  }
 #menu_6ea2fd9d { vertical-align: bottom; position:relative; display: inline-block; width:98%; height:38px; text-align:left; background-color:#E5E5E5; background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(229, 229, 229, 0));  }
@@ -211,6 +210,7 @@ body { background-color:#000000; padding:0;  margin: 0; }
 #audio_45286c53 { vertical-align: bottom; position:relative; display: inline-block; width:220px; height:32px; background:none;  }
 #placeh_2c1b845 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:50px; background-color:#000000; border: 40px solid #000000;  }
 .textstyle11 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+#img_31eaff9e { position:absolute; left:5%; top:2%; width:5%; background:none;  }
 @media only screen and (max-width: 750px)
 {
 		#container_3defd5da { width:100%;  }
